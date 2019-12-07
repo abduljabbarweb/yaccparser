@@ -1,0 +1,6 @@
+float sum(int term)
+{
+    float result;
+    result=result+term;
+    return result;
+}
